@@ -7,7 +7,7 @@ $ cd simple-fba
 $ source bin/activate
 
 $ git clone https://github.com/Iaoouvy/Federated-Byzantine-Agreement.git
-$ cd src/modified-fba
+$ cd src/fba
 $ python setup.py develop
 ```
 ## Run
