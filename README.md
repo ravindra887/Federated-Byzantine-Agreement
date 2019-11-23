@@ -6,7 +6,7 @@ $ python3 -m venv
 $ cd simple-fba
 $ source bin/activate
 
-$ git clone https://github.com/Iaoouvy/Federated-Byzantine-Agreement.git
+$ git clone https://github.com/Iaoouvy/Federated-Byzantine-Agreement.git src/fba
 $ cd src/fba
 $ python setup.py develop
 ```
